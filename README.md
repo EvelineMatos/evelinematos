@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 🚀 Eveline Matos | Tech Lead
+## Hi there 👋 Eu sou a Eveline Matos
 
 ## 📌 Perfil Profissional  
 Atualmente, sou **Tech Lead no Banco Itaú**, liderando iniciativas de arquitetura de soluções e inovação tecnológica. Com mais de **15 anos de experiência na área bancária**, atuo na integração entre **tecnologia e inovação** em instituições financeiras de destaque como **Bradesco, Itaú, Safra e Sabadell (Espanha)**. Tenho expertise em **desenvolvimento de sistemas, arquitetura de TI e liderança técnica**.  
@@ -37,5 +35,5 @@ Atualmente, sou **Tech Lead no Banco Itaú**, liderando iniciativas de arquitetu
 🔗 [Certificações & Badges](https://www.youracclaim.com/users/eveline-matos-silva.cbf61eb8/badges)  
 
 ## 🌍 Conecte-se comigo  
-📌 [LinkedIn](https://www.linkedin.com/in/eveline-matos-silva-a2a18526/) | 📌 [GitHub](https://github.com/seu-usuario)  
+📌 [LinkedIn](https://www.linkedin.com/in/eveline-matos-silva-a2a18526/) | 📌 [GitHub](https://github.com/EvelineMatos) 
 
