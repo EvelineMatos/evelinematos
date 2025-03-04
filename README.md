@@ -35,5 +35,5 @@ Atualmente, sou **Tech Lead no Banco Itaú**, liderando iniciativas de arquitetu
 🔗 [Certificações & Badges](https://www.youracclaim.com/users/eveline-matos-silva.cbf61eb8/badges)  
 
 ## 🌍 Conecte-se comigo  
-📌 [LinkedIn](https://www.linkedin.com/in/eveline-matos-silva-a2a18526/) | 📌 [GitHub](https://github.com/EvelineMatos) 
+📌 [LinkedIn](https://www.linkedin.com/in/eveline-matos-silva-a2a18526/) | 📌 [GitHub](https://github.com/EvelineMatos) 📌 [CV] https://evelinematos.github.io/Criando-Curriculo-Online-Com-HTML-GitHub-Pages/
 
