@@ -20,22 +20,25 @@ Atualmente, sou **Tech Lead no Banco Itaú**, liderando iniciativas de arquitetu
 ✔️ **Linguagens de Programação**: Cobol, Python. *(Estudando: C# e JavaScript)*.  
 ✔️ **Arquitetura de Software**: Modelagem, documentação e **desenho de soluções escaláveis**.  
 
+## 🎯 Adaptabilidade e Atualização Constante  
+Apesar de ter uma vasta experiência com **mainframe e sistemas legados**, sempre estou antenada com as **novas tecnologias**. Acredito que um bom líder técnico deve estar sempre aprendendo e se adaptando. Isso me permite ajudar meu time com soluções inovadoras, aplicar lógicas de raciocínio eficientes e colaborar com times multidisciplinares. Além disso, meu conhecimento em diversas linguagens e tecnologias me permite realizar **code reviews**, contribuir para discussões técnicas e garantir a qualidade do código em diferentes contextos.  
+
 ## 🏆 **Realizações Destacadas**  
 🔹 Liderança na **entrega bem-sucedida da Bia na Alexa (Bradesco)**, projeto exposto no **CIAB 2019**.  
 🔹 Condução do produto **"Garantia de Crédito" e "Personalização de Proposta de Operação de Crédito"** no Banco Safra.  
 🔹 Desenvolvimento de produtos de **Tesouraria, Limites, Empréstimos e Consórcio** em grandes instituições financeiras.  
 
 ## 🎓 **Formação Acadêmica**  
+🎓 **Pós-graduação em Arquitetura de Solução** *(em andamento - PUC Minas)*  
 🎓 **MBA em Banking**  
 🎓 **Pós-graduação em Projetos de Redes e Computação em Nuvem**  
 🎓 **Pós-graduação em Engenharia e Arquitetura de Software**  
-🎓 **Pós-graduação em Arquitetura de Solução** *(em andamento - PUC Minas)*  
+
 
 ## 📜 **Certificações e Badges**  
 🔗 [Certificações & Badges](https://www.youracclaim.com/users/eveline-matos-silva.cbf61eb8/badges)  
 
 ## 🌍 Conecte-se comigo  
-📌 [LinkedIn](https://www.linkedin.com/in/eveline-matos-silva-a2a18526/)
-📌 [GitHub](https://github.com/EvelineMatos) 
-📌 [CV](https://evelinematos.github.io/Criando-Curriculo-Online-Com-HTML-GitHub-Pages/)
-
+📌 [LinkedIn](https://www.linkedin.com/in/eveline-matos-silva-a2a18526/)  
+📌 [GitHub](https://github.com/EvelineMatos)  
+📌 [CV](https://evelinematos.github.io/Criando-Curriculo-Online-Com-HTML-GitHub-Pages/)  
