@@ -1,7 +1,7 @@
 ## Olá 👋 Eu sou a Eveline Matos
 
 ## 📌 Perfil Profissional  
-Atualmente, sou **Tech Lead no Banco Itaú**, liderando iniciativas de arquitetura de soluções e inovação tecnológica. Com mais de **15 anos de experiência na área bancária**, atuo na integração entre **tecnologia e inovação** em instituições financeiras de destaque como **Bradesco, Itaú, Safra e Sabadell (Espanha)**. Tenho expertise em **desenvolvimento de sistemas, arquitetura de TI e liderança técnica**.  
+Atualmente, sou **Arquiteta de Soluções Sênior** no **Banco Bradesco**, atuando com iniciativas de arquitetura de soluções e inovação tecnológica. Com mais de **15 anos de experiência** na área **bancária**, atuo na integração entre tecnologia e inovação em instituições financeiras de destaque como Bradesco, Itaú, Safra e Sabadell (Espanha). Tenho expertise em **desenvolvimento de sistemas**, **arquitetura de TI** e **liderança técnica**.
 
 ## 🔥 Experiência e Competências  
 
